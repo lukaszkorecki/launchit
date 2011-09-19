@@ -2,4 +2,4 @@
 require 'Launchit'
 
 
-Launchit.execute! ARGS
+Launchit.execute! ARGV[0]
