@@ -14,4 +14,4 @@
 
 
 made by me,
-licenced under [WTFPL](http://sam.zoy.org/wtfpl/)
+licensed under [WTFPL](http://sam.zoy.org/wtfpl/)
